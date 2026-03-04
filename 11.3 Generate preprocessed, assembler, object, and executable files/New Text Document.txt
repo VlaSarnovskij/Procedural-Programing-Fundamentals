@@ -1,0 +1,3 @@
+gcc -E file.c -o file.i		 // duoda tik preprocess. koda
+gcc -S file.c -o file.s		 // duoda assembler koda, po preprocess.
+gcc -c file.c -o file.o		 // object koda(masininis) po assembler

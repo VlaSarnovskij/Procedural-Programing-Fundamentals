@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762455176 source:c:\users\medion\desktop\procedural programming fundamentals\uzduociai\10.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

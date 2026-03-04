@@ -1,0 +1,11 @@
+C:\Users\Medion>cd C:\Users\Medion\Desktop\Procedural Programming Fundamentals\PSP\4.5
+
+C:\Users\Medion\Desktop\Procedural Programming Fundamentals\PSP\4.5>gcc -c list.c -o list.o
+
+C:\Users\Medion\Desktop\Procedural Programming Fundamentals\PSP\4.5>gcc -c main.c -o main.o
+
+C:\Users\Medion\Desktop\Procedural Programming Fundamentals\PSP\4.5>gcc main.o list.o -o prog
+
+C:\Users\Medion\Desktop\Procedural Programming Fundamentals\PSP\4.5>prog
+3 2
+C:\Users\Medion\Desktop\Procedural Programming Fundamentals\PSP\4.5>

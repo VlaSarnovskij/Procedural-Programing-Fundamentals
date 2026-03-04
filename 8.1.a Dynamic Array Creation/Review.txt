@@ -1,0 +1,4 @@
+myArray[i] ~ *(myArray + i)
+
+malloc(size * sizeof(type)) -> return void*
+

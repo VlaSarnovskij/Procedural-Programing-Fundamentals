@@ -1,0 +1,69 @@
+QUERY 1
+23 students found
+Jessie Wood 0
+Jim Stapleton 0
+Alice Sleight 0
+...
+
+QUERY 2
+885 students found
+Adam Leben 6.000000
+Jim de Vito 9.333333
+Karl King 6.200000
+...
+
+QUERY 4
+509 students found
+Alex Doe 2
+Adam Leben 3
+Wilhelm Sleight 3
+...
+
+QUERY 5
+236 students found
+Alex Doe
+Jamie Doe
+Helen Doe
+...
+
+QUERY 7
+164 students found
+Jamie Doe
+Jerry de Vito
+Alex Madsen
+...
+
+QUERY 8 
+74 students found
+Jim de Vito
+Wilhelm Madsen
+Angelina Madsen
+...
+
+QUERY 9 
+285 students found
+Jim Hat  
+Sarah Gibson  
+Kylie Smith  
+...
+
+QUERY 10
+266 students found
+Alex Doe 
+Adam Leben 
+Alice Leben
+...
+
+QUERY 11
+759 students found
+Jim de Vito
+Jim Hat
+Alice Leben
+...
+
+QUERY 18
+60 students found
+Alex Doe
+Adam Leben
+Jim de Vito
+...

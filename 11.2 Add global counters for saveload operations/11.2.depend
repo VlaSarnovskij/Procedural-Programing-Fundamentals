@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1764352164 source:c:\users\medion\desktop\procedural programming fundamentals\uzduociai\11.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"file.h"
+
+1764353990 c:\users\medion\desktop\procedural programming fundamentals\uzduociai\11.2\file.h
+	<stdio.h>
+
+1764354028 source:c:\users\medion\desktop\procedural programming fundamentals\uzduociai\11.2\file.c
+	"file.h"
+	<stdlib.h>
+

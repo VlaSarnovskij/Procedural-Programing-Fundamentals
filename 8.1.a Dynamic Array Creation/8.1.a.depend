@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761222767 source:c:\users\medion\desktop\procedural programming fundamentals\uzduociai\8.1.a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

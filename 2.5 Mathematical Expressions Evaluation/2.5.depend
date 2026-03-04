@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757775401 source:c:\users\medion\desktop\procedural programming fundamentals\užduotys 02\2.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

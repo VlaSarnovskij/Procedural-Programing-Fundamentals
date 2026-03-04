@@ -1,0 +1,9 @@
+3 funkcijas: kurios kaip arg gauna structura, o struct el yra: masyvas, n(nurodanti sk)
+    1 structura - dinamini
+    1 structura - statyni
+    
+    1 funk - pakeicia dinam elem nuo 1 iki n. turi statyni ir n
+    2 funk - gaus kaip arg su dinamini masyva jis dar neicilizotas, malloc nuo 1 iki n
+    3 funk - kai inic dinam, paims, irasis sk nuo 1 iki n
+    
+    3 funk ir 2 structurus

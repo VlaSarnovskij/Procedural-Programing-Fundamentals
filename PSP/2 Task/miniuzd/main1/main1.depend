@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758093754 source:c:\users\medion\desktop\procedural programming fundamentals\litvinui\miniuzd\main1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
