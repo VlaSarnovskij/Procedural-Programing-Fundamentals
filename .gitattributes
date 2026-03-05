@@ -1,0 +1,8 @@
+*.cmd linguist-vendored
+*.xlsx linguist-vendored
+*.txt linguist-vendored
+*.htm linguist-vendored
+*.html linguist-vendored
+Makefile linguist-language=C
+*.c linguist-language=C
+*.h linguist-language=C
